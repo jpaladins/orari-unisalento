@@ -1,17 +1,18 @@
-# orario_unisalento
+# 🎓 Orari Unisalento (Non Ufficiale) - Alpha v0.1a
 
-A new Flutter project.
+Un'applicazione comoda e veloce per visualizzare gli orari delle lezioni dell'Università del Salento direttamente dal tuo smartphone Android.
 
-## Getting Started
+⚠️ **ATTENZIONE: Questa è un'app NON UFFICIALE.** Non è in alcun modo affiliata, autorizzata o supportata dall'Università del Salento. Tutte le informazioni mostrate sono estratte pubblicamente dal sito ufficiale di Logistica Unisalento. L'app è stata creata a scopo didattico e per comodità degli studenti.
 
-This project is a starting point for a Flutter application.
+## 🚀 Stato del Progetto
+Attualmente l'app è in versione **Alpha v0.1a**. 
+Essendo un progetto nato tramite "vibecoding", alcune funzionalità potrebbero non essere ancora perfette o in fase di sviluppo.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Come installare (Solo Android)
+1. Vai nella sezione [Releases](../../releases) di questa repository.
+2. Scarica il file `.apk` dell'ultima versione disponibile sul tuo telefono.
+3. Apri il file scaricato (potrebbe esserti richiesto di autorizzare l'installazione da "Origini sconosciute" nelle impostazioni di Android).
+4. Installa e usa l'app!
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologie usate
+* Sviluppata in **Flutter / Dart**
